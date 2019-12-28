@@ -7,3 +7,5 @@ Add text in center aligment on image using Python.
 # Run file
 pyhton3 putTextOnImage.py
 
+# ccopyright
+I am not usre about image and font copyright, Please contact me for further query.
